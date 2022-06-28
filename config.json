@@ -1,0 +1,22 @@
+{
+    "mainGuild": "id do seu discord",
+    "db": {
+        "host": "localhost",
+        "name": "nome do seu banco de dados",
+        "user": "root",
+        "pass": "",
+        "dialect": "mariadb"
+    },
+    "rolesCfg":{
+        "roleOwner": "cargo do owner",
+        "roleAprovador": "cargo do aprovador de wl"
+    },
+    "status":{
+        "ip": "127.0.0.1",
+        "porta": "30120"
+    }
+ }
+
+ // LEIA ABAIXO E APAGUE ANTES DE INICIAR O BOT! INSTALE O NODE JS 
+ // creditos pelo vazamento a dogz1n community!   vem para nossa comunidade <3 >>   discord.gg/dogz1n
+
